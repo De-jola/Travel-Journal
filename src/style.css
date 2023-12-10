@@ -18,7 +18,7 @@ nav {
   padding: 1em;
 }
 h1 {
-  font-size: 2.5em;
+  font-size: 2em;
   margin-bottom: 0.3em;
 }
 
@@ -44,6 +44,9 @@ h1 {
   gap: 2em;
   font-size: 0.64em;
 }
+.journal-content {
+  width: 80%;
+}
 .flex-container {
   display: flex;
   align-items: center;
@@ -61,4 +64,10 @@ h1 {
 .date {
   font-weight: bold;
   margin-bottom: 0.2em;
+}
+.journal-img {
+  width: 30%;
+}
+.location {
+  width: 100%;
 }
