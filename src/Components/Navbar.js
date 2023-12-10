@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../Images/Fill 213.svg";
+import logo from "../Fill 213.svg";
 
 const Navbar = function () {
   return (
