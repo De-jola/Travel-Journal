@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+nav {
+  background-color: #f55a5a;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em;
+  padding: 1em;
+}
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.3em;
+}
+
+.nav-title {
+  color: #fff;
+  font-family: Inter;
+  font-size: 14.461px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: -1.085px;
+}
+.border {
+  margin: auto;
+  width: 90%;
+  height: 1px;
+  background-color: #f5f5f5;
+}
+.journal {
+  padding: 3em;
+  display: flex;
+  align-items: center;
+  gap: 2em;
+  font-size: 0.64em;
+}
+.flex-container {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+.flex1 {
+  gap: 1em;
+  margin-bottom: 0.3em;
+}
+.google-link {
+  color: #918e9b;
+  text-decoration: none;
+  border-bottom: 1.5px solid #918e9b;
+}
+.date {
+  font-weight: bold;
+  margin-bottom: 0.2em;
+}
